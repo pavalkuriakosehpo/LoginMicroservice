@@ -1,0 +1,9 @@
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Models\bin\Debug\netcoreapp2.2\Login.Models.deps.json
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Models\bin\Debug\netcoreapp2.2\Login.Models.dll
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Models\bin\Debug\netcoreapp2.2\Login.Models.pdb
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Models\obj\Debug\netcoreapp2.2\Login.Models.csproj.CoreCompileInputs.cache
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Models\obj\Debug\netcoreapp2.2\Login.Models.AssemblyInfoInputs.cache
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Models\obj\Debug\netcoreapp2.2\Login.Models.AssemblyInfo.cs
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Models\obj\Debug\netcoreapp2.2\Login.Models.dll
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Models\obj\Debug\netcoreapp2.2\Login.Models.pdb
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Models\obj\Debug\netcoreapp2.2\Login.Models.csprojAssemblyReference.cache

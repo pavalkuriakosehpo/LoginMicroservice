@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Login.Interfaces/1.0.0": {
+        "dependencies": {
+          "Login.Models": "1.0.0"
+        },
+        "runtime": {
+          "Login.Interfaces.dll": {}
+        }
+      },
+      "Login.Models/1.0.0": {
+        "runtime": {
+          "Login.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Login.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Login.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

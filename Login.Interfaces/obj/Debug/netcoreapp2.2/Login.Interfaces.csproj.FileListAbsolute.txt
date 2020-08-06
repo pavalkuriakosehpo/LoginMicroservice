@@ -1,0 +1,12 @@
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Interfaces\bin\Debug\netcoreapp2.2\Login.Interfaces.deps.json
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Interfaces\bin\Debug\netcoreapp2.2\Login.Interfaces.dll
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Interfaces\bin\Debug\netcoreapp2.2\Login.Interfaces.pdb
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Interfaces\bin\Debug\netcoreapp2.2\Login.Models.dll
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Interfaces\bin\Debug\netcoreapp2.2\Login.Models.pdb
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Interfaces\obj\Debug\netcoreapp2.2\Login.Interfaces.csprojAssemblyReference.cache
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Interfaces\obj\Debug\netcoreapp2.2\Login.Interfaces.csproj.CoreCompileInputs.cache
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Interfaces\obj\Debug\netcoreapp2.2\Login.Interfaces.AssemblyInfoInputs.cache
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Interfaces\obj\Debug\netcoreapp2.2\Login.Interfaces.AssemblyInfo.cs
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Interfaces\obj\Debug\netcoreapp2.2\Login.Interfaces.csproj.CopyComplete
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Interfaces\obj\Debug\netcoreapp2.2\Login.Interfaces.dll
+C:\Paval\HPOProjects\E-book\Microservices\Login\Login.Interfaces\obj\Debug\netcoreapp2.2\Login.Interfaces.pdb
